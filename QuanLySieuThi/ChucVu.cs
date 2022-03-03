@@ -8,7 +8,7 @@ namespace QuanLySieuThi
 {
     class ChucVu
     {
-        public int MaCV { get; set; }
+        public int MaCONGCONG { get; set; }
         public string TenCV { get; set; }
         public ChucVu() { }
         public ChucVu(int macv,string tencv)
